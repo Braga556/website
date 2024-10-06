@@ -123,5 +123,5 @@ These functions may become slower due to **Scoped Storage**'s inherent latency, 
 This can impact tasks like deleting chapters, library loading times, accessing local files like downloads or the local source, and more. As always, using internal storage is recommended over SD cards if latency is of concern.
 
 <style scoped>
-  @import "../../.vitepress/theme/styles/tree.styl"
+  "../../.vitepress/theme/styles/tree.styl"
 </style>
